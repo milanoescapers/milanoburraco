@@ -39,6 +39,13 @@ body::before {
   }
 }
 
+input {
+  color: black;
+}
+textarea{
+  color: black;
+}
+
 
 .milanoburraco-container {
   max-width: 42em;
